@@ -55,25 +55,55 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+ - "The Houston Astros And The Ethical Use Of Data And Analytics"
 
 -  Reference or article citation.
- - Your answer here
+ - Davenport, Tom. “The Houston Astros And The Ethical Use Of Data And Analytics.”
+ Forbes, Forbes Magazine, 4 Mar. 2020, www.forbes.com/sites/tomdavenport/2020/03/04/the-houston-astros-and-the-ethical-use-of-data-and-analytics/#9475c966f8f6.
 
 - Briefly describe the article's premise.
- - Your answer here
+ - The Houston Astros used an illegal approach to steal pitch signs from catchers
+ that would hitters to anticipate what type of pitch was coming at them. The author
+ of this article also gives some advice on how to avoid crossing the ethical line
+ when it comes to collecting data and provides an explanation as to how one can
+ pursue data and analytics too far.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+ - I think the ethical concern is that by obtaining this feed, the game no longer
+ becomes fair. By being able to anticipate what pitch will come at the batter,
+ the opposing team will find it more difficult to come up with a unique strategy.
+ This is seen as an inappropriate collection and use of data as it is supposed to
+ be used to challenge a call. The Astros will be able to win more games
+ (this technology even aided them to win the World Series in 2017) and it
+ essentially eliminates the idea of playing a "fair game".
 
 - What data is being manipulated in the article?
- - Your answer here
+ - The data that is being manipulated is the video feed that is coming from the
+ center-field during every game. The Astros have been using the technology from
+ the video replay system in order to anticipate what type of pitch the opposing
+ pitcher was going to throw so that they could act accordingly.
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+ - Major League Baseball usually gives managers one chance to challenge a particular
+ call on the field using a video replay system accompanied by a video review room
+ for each team. The coach for the Astros would usually call the video review rooms
+ to get these pitch signs and occasionally these signs would be relayed through
+ a text message to the phone of someone in the dugout or the smartwatch of a staff
+ member. The bench coach eventually had a television monitor installed on the dugout
+ that transmitted the feed from the center-field camera for the players to watch.
+ The players then signaled the batter to get ready for a curveball or another
+ off-speed pitch.
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
+ - The Astros stand to gain something from the analysis of the feed from the
+ center-field because they are able to anticipate their opponent's next move and
+use that to their advantage. Their opponents have a lot to lose because it could
+deprive them of winning the game or even championship that they may have deserved
+to win if they were in fact the better team. In some regard the Astros have also
+lost something despite gaining a competitive advantage. They received a $5 million
+penalty and docked several top draft picks. The team even received criticism
+from players and fans alike saying that their World Series title should have
+been revoked.
 
 
 
